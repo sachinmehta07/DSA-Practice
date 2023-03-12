@@ -28,7 +28,6 @@ public class MultiDimArray {
             System.out.println();
         }
     }
-
     public static void main(String[] args) {
         MultiDimArray m1 = new MultiDimArray();
         m1.mulDimArray();
